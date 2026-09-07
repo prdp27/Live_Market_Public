@@ -18,6 +18,8 @@ create a python code to fetch historcal data from yahoo finance and then join in
 
  The new Databricks implementation runs independently in the cloud, so I no longer need to keep my local computer running.
 
+ <img width="1368" height="834" alt="image" src="https://github.com/user-attachments/assets/1e5ddaa0-6454-47c0-b584-328dd140f61b" />
+
  ## Architecture
 
 ```
