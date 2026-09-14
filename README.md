@@ -170,3 +170,8 @@ Delta Table
  07 September 2026 — First successful Databricks scheduled pipeline
 
  The pipeline successfully moved from a locally executed Python process to a cloud-scheduled Databricks Job.
+
+ ## Error Handling
+ 
+ <img width="1419" height="117" alt="image" src="https://github.com/user-attachments/assets/ca23d41b-47e2-415e-a9a6-0ac5af5a10af" />
+
