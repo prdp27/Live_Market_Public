@@ -175,3 +175,5 @@ Delta Table
  
  <img width="1419" height="117" alt="image" src="https://github.com/user-attachments/assets/ca23d41b-47e2-415e-a9a6-0ac5af5a10af" />
 
+ ## Trying to connect delta table to PowerBi
+ <img width="361" height="691" alt="image" src="https://github.com/user-attachments/assets/13f518fc-f966-493e-bedf-2133e57c4bc3" />
